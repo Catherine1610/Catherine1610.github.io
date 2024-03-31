@@ -47,7 +47,8 @@ a{
 
 .cover-image {
     width: 150px;
-    height: 150px;
+    height: auto;
+    max-width: 150px;
     border-radius: 50%;
 }
 
